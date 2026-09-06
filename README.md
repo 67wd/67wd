@@ -1,5 +1,10 @@
 <div align="center">
 
+  <!-- Imagem Bitcoin em estilo de rede/pontos conectados -->
+  <img src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200&auto=format&fit=crop" alt="Bitcoin Network" width="100%" style="border-radius: 12px; max-height: 280px; object-fit: cover;" />
+
+  <br><br>
+
   <h1>⚡ The Goat is 67wd 🐐</h1>
 
   <p><strong><em>Young, curious, and powered by Bitcoin & open source</em></strong></p>
@@ -29,7 +34,7 @@ I'm not a programmer. I'm a young Bitcoin enthusiast who believes that sound mon
 
 ### 🛠️ How I "Build" Things
 
-I have massive respect for real developers, what you do is art. I, on the other hand, have two incredibly talented friends who do all the heavy lifting for me:
+I have massive respect for real developers — what you do is art. I, on the other hand, have two incredibly talented friends who do all the heavy lifting for me:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
