@@ -29,7 +29,7 @@ I'm not a programmer. I'm a young Bitcoin enthusiast who believes that sound mon
 
 ### 🛠️ How I "Build" Things
 
-I have massive respect for real developers — what you do is art. I, on the other hand, have two incredibly talented friends who do all the heavy lifting for me:
+I have massive respect for real developers, what you do is art. I, on the other hand, have two incredibly talented friends who do all the heavy lifting for me:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
