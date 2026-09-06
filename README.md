@@ -27,24 +27,23 @@ I'm not a programmer. I'm a young Bitcoin enthusiast who believes that sound mon
 
 ---
 
-### 🛠️ My "Programming" Stack
+### 🛠️ How I "Build" Things
 
-People say you need to know how to code to be on GitHub. I respectfully disagree. My entire dev stack runs on AI and sheer willpower:
+I have massive respect for real developers — what you do is art. I, on the other hand, have two incredibly talented friends who do all the heavy lifting for me:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Lovable-FF2D55?style=for-the-badge&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/Copypaste-007ACC?style=for-the-badge" alt="Copy Paste" />
 </p>
 
-> *"I speak fluent English to Claude, he translates it into code, and Lovable makes it look pretty. If it works, I'm a dev."* 😎
+> *"I describe what I want in plain English, Claude writes the code, and Lovable makes it beautiful. I'm basically the project manager of a two-AI team."* 😄
 
 ---
 
 ### 🖥️ My OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </p>
 
 <p align="center"><em>Because privacy matters, even if I can't write a single line of code.</em></p>
